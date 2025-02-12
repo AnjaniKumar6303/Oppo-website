@@ -1,0 +1,202 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.nav_in img{
+    height:50px;
+    width: 190px;
+    background-color: #B5BD8E;
+}
+.nav_in{
+ padding-left: 100px;
+ display:flex;
+ margin-bottom: 40px;
+
+}
+.nav_in a{
+  padding-inline-start: 20px;
+  padding-top:20px;
+  color: black;
+}
+.nav_in a:hover{
+ text-decoration: underline;
+}
+.nav_in input{
+ height:35px;
+ width:200px;
+ margin-top:10px ;
+ margin-left: 10px;
+ align-items: 20px;
+ border-radius: 50px;
+ background-color: #F1F1F1;
+
+}
+.header{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.main-1{
+    height: 600px;
+    width: 1440px;
+    background-color: beige;
+    margin-left: 30px;
+    margin-top: 40px;
+    display: flex;
+}
+.img-1{
+    background-color: rgb(143, 139, 134);
+    margin-left: 30px;
+    height: 500px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.img-1 img{
+    height: 450px;
+    width: 370px;
+}
+.img-2{
+    background-color: rgb(143, 139, 134);
+    margin-left: 30px;
+    height: 500px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.img-2 img{
+    height: 450px;
+    width: 370px;
+}
+.img-3{
+    background-color: rgb(143, 139, 134);
+    margin-left: 30px;
+    height: 500px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.img-3 img{
+    height: 450px;
+    width: 370px;
+}
+.buds{
+    background-color: aliceblue;
+    margin-top: 10px;
+    font-style:italic;
+    font-weight: 400;
+    font-size: 31px;
+}
+.footer {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 40px;
+}
+.add li a {
+    
+    color: silver;
+    text-decoration: none;
+    
+}
+.add li {
+    padding: 10px;
+    text-decoration: none;
+}
+.add  span {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.add li  :hover {
+    text-decoration: underline;
+}
+.add1 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add1 li {
+    padding: 10px;
+}
+.add1 span {
+    font-size: 20px;
+    text-decoration: none;
+}
+.add1 li  :hover {
+    text-decoration: underline;
+}
+.add2 li a {
+    color: silver;
+    text-decoration: none;
+
+}
+.add2 span {
+    font-size: 20px;
+}
+.add2 li:hover {
+    text-decoration: underline;
+}
+.add2 li {
+    padding: 10px;
+}
+.add3 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add3 span {
+    font-size: 20px;
+}
+.add3 li :hover {
+    text-decoration: underline ;
+}
+.add3 li {
+    padding: 10px;
+}
+.add4 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add4 span {
+    font-size: 20px;
+}
+.add4 li:hover {
+    text-decoration: underline;
+}
+.add4 li {
+    padding: 10px;
+}
+.add5 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add5 li {
+    padding: 10px;
+}
+.add5 span {
+    font-size: 20px;
+}
+.add5 li :hover {
+    text-decoration: underline;
+}
+.flag h1 {
+    position: absolute;
+    top: 350px;
+    font-size: 15px;
+    background-color: #DDDCE2;
+}
+.flag a {
+    position: absolute;
+    top: 370px;
+    left: 250px;
+    padding: 20px;
+    margin-left: 20px;
+   background-color: #DDDCE2;
+}
+

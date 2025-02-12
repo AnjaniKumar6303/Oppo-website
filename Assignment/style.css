@@ -1,0 +1,656 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.nav_in img{
+       height:50px;
+       width: 190px;
+       background-color: #B5BD8E;
+}
+.nav_in{
+    padding-left: 100px;
+    display:flex;
+    margin-bottom: 100px;
+    margin-left: 90px;
+
+}
+.nav_in a{
+     padding-inline-start: 20px;
+     padding-top:20px;
+     color: black;
+}
+.nav_in a:hover{
+    text-decoration: underline;
+}
+.nav_in input{
+    height:35px;
+    width:200px;
+    margin-top:10px ;
+    margin-left: 10px;
+    align-items: 20px;
+    border-radius: 50px;
+    background-color: #F1F1F1;
+
+}
+.fa-magnifying-glass{
+    padding-top:20px;
+    position: absolute;
+    right: 301px;
+}
+.bg_image img{
+    height:90vh;
+    width:98.9vw;
+    position: relative;
+    bottom:190px;
+}
+.bg1-image img{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    bottom: 185px;
+}
+
+.oppo  {
+    position: absolute;
+    top:70px;
+    left: 200px;
+    font-size: 50px;
+
+    
+}
+
+.text {
+    position: absolute;
+    top: 175px;
+    left: 375px;
+    font-size: 37px;
+    font-family: sans-serif;
+}
+.step {
+    position: absolute;
+    top: 190px;
+    left: 120px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.portrait{
+    position: absolute;
+    top: 540px;
+    left: 80px;
+    font-size: 27px;
+    font-weight: 100;
+    font-family:  sans-serif;
+    font-style: initial;
+}
+
+.buynow{
+    position: absolute;
+    top: 600px;
+    left: 80px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 4px;
+    width: 110px;
+}
+.buynow:hover{
+    background-color: lightslategray;
+}
+
+.learn{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    font-size: 20px;
+    background-color:white;
+    color: black;
+    border-radius: 25px;
+    padding: 4px;
+    width: 140px;
+
+}
+.learn:hover {
+    background-color: #DDDCE2;
+}
+
+.oppofind {
+    position: absolute;
+    top: 800px;
+    left: 120px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 540;
+}
+
+.seemore {
+    position: absolute;
+    top: 860px;
+    left: 120px;
+    font-weight: 200;
+    font-size: 26px;
+}
+.bestflip{
+    position: absolute;
+    top: 1080px;
+    left: 80px;
+    font-size: 21px;
+    font-weight: 300;
+}
+.buynow1 {
+    position: absolute;
+    top: 1140px;
+    left: 80px;
+    width: 100px;
+    height: 35px;
+    font-size: 19px;
+    border-radius: 22px;
+    background-color: black;
+    color: white;
+}
+.buynow1:hover{
+    background-color: lightslategray;
+}
+
+.learn1 {
+    position: absolute;
+    top: 1140px;
+    left:200px;
+    width: 110px;
+    padding: 6px;
+
+    font-size: 18px;
+    border-radius: 22px;
+    background-color: white;
+    color: black;
+}
+.learn1:hover{
+    background-color: #DDDCE2;
+}
+.bg2-image{
+    height: 10px;
+    width: 100%;
+    background-color: white;
+}
+.new {
+    position: absolute;
+    top: 1350px;
+    left: 40px;
+    font-weight: 200;
+    font-size: 28px;
+}
+.view {
+    position: absolute;
+    top: 1350px;
+    right: 80px;
+    font-weight: 200;
+    font-size: 22px;
+    
+}
+.oppo33{
+    height: 500px;
+    width: 83%;
+    /* margin: auto; */
+    align-items: center;
+    padding-left: 190px;
+    
+}
+.oppo33:hover{
+    transform: 2s;
+}
+.oppoA78 {
+    position: absolute;
+    top: 1470px;
+    left: 210px;
+    font-weight: 550;
+}
+.h1tag h1{
+    background-color: #D7FFDB;
+     padding: 40px;
+     width:190px;
+}
+.supervocc{
+    position:relative;
+    left:210px;
+    font-size: 20px;
+    bottom:130px;   
+}
+.vocc:hover {
+    text-decoration: underline;
+}
+.h1tag a{
+    position:relative;
+    left:190px;
+    bottom:170px; 
+    padding:20px; 
+    color: black;
+}
+
+.bg3_image{
+    padding-left: 190px;
+    position: relative;
+    bottom:110px;
+}
+.inner1img{
+    /* display: flex; */
+    height:500px;
+}
+.inner1img img {
+    height:90%;
+    width:40%;
+    padding-left: 200px;
+    background-color: #F6F6F6;
+}
+.oppof21{
+    position: absolute;
+    bottom:420px;
+    font-size:35px;
+    left: 210px;
+}
+.opporeno{
+    position: absolute;
+    bottom:435px;
+    font-size:34px;
+    right:490px;  
+}
+.oppo{
+    background-color: #EFEDE9;
+    /* padding:10px; */
+    position: absolute;
+    left: 110px;
+    top:110px;
+}
+.oppo h1{
+    font-size:17px;
+    width:250px;
+    padding-left:25px;
+    padding-top: 20px;
+}
+.oppo a{
+    font-size:15px;
+    padding-left:25px;
+    padding-bottom:100px;
+    color: black;
+}
+.oppo1{
+    background-color: #EFEDE9;
+    height:130px; 
+    position: absolute;
+    right:530px;
+    top:310px;
+}
+.oppo1 h1{
+    font-size:17px;
+    width:250px;
+    padding-left:25px;
+    padding-top: 20px;
+}
+.oppo1 a{
+    font-size:15px;
+    padding-left:25px;
+    /* padding-bottom:300px; */
+    color: black;
+
+}
+
+
+.bg4_image{
+    padding-left: 190px;
+    position: relative;
+    bottom:110px;
+}
+.inner2img{
+    /* display: flex; */
+    height:500px;
+}
+.inner2img img {
+    height:90%;
+    width:40%;
+    padding-left: 200px;
+    background-color: #F6F6F6;
+}
+  .igs:hover{
+       cursor: pointer;
+
+  }
+.oppof21s{
+    position: absolute;
+    bottom:437px;
+    font-size:30px;
+    left: 200px;
+}
+
+.oppopad{
+    position: absolute;
+    bottom:420px;
+    font-size:30px;
+    right:570px;    
+} 
+.oppopro{
+    background-color: #EFEDE9;
+    height:130px;
+    position: absolute;
+    left: 200px;
+    top: 310px;
+}
+.oppopro h1{
+    font-size:17px;
+    width:250px;
+    padding-left:25px;
+    padding-top: 20px;
+}
+.oppopro a{
+    font-size:15px;
+    padding-left:35px;
+    padding-bottom:120px;
+    color: black;
+    line-height:110px;   
+}  
+.oppopro1{
+    background-color: #EFEDE9;
+    height:130px; 
+    position: absolute;
+    right:530px;
+    top:310px;
+}
+
+.oppopro1 h1{
+    font-size:17px;
+    width:250px;
+    padding-left:25px;
+    padding-top: 22px;
+}
+.oppopro1 a{
+    font-size:15px;
+    padding-left:25px;
+    /* padding-bottom:100px; */
+    color: black;
+   line-height:70px;
+}
+#img5 {
+    height: 30%;
+    width: 37%;
+    background-color: #F6F6F6;
+    padding-bottom: 300px;
+    position: relative;
+    bottom: 160px;
+    left: 180px;
+}
+.offers {
+    height: 300px;
+    width: 450px;
+    padding-left: 70px;
+
+}
+.offers1{
+    height: 300px;
+    width: 450px;
+    padding-left: 0px;
+
+}
+.offers2 {
+    height: 300px;
+    width: 450px;
+    padding-left: 0px;
+
+}
+.background {
+    background-color: #DDDCE2;
+    width: 1290px;
+    height: 100px;
+    margin-left: 70px;
+    
+    
+    
+}
+.welcome {
+    font-size: 20px;
+    margin-bottom:50px ;
+    padding-top: 20px;
+    font-weight: 500;
+    padding-left: 20px;
+    width: 100%;
+}
+.welcome1 {
+    font-size: 20px;
+    margin-bottom:50px ;
+    padding-bottom: 20px;
+    padding-left: 10px;
+
+
+}
+.background1  {
+    
+    font-size: 20px;
+    background-color: #DDDCE2;
+    height: 80px;
+    width: 1290px;
+    margin-left: 70px;
+    display: flex;
+}
+.background1 h1 {
+    padding-left: 500px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: 3900px;
+   left: 50px;
+}
+.background1 h2 {
+    position: absolute;
+    top: 3970px;
+    left: 480px;
+    font-size: 20px;
+}
+.background2 h1 {
+    position: absolute;
+    top: 3900px;
+    right: 430px;
+    font-size: 20px;
+
+}
+.background2 h2 {
+    position: absolute;
+    top: 3970px;
+    right: 300px;
+    font-size: 20px;
+}
+.background3 h3 {
+    height: 140px;
+    padding-top: 90px;
+    padding-left: 40px;
+
+}
+.background4 {
+    display: flex;
+    height: 285px;
+    width: 270px;
+    padding-left: 70px;
+}
+.ground1 {
+    background-color: #DDDCE2;
+    height: 200px;
+    width: 1285px;
+    margin-left: 70px;
+}
+.ground1 h1 {
+    font-size: 27px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.ground1 pre {
+    padding-left: 10px;
+    padding-top: 30px;
+    font-size: 17px;
+}
+
+.ground2 h1 {
+    font-size: 27px;
+    margin-left: 500px;
+    margin-top: -170px;
+
+}
+.ground2 pre {
+    font-size: 17px;
+    margin-left: 530px;
+    margin-top: 40px;
+
+}
+.gro3 {
+    margin-left: 940px;
+    margin-top: -165px;
+    font-size: 25px;
+}
+.gro3 pre {
+    font-size: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.lastpage {
+    height: 500px;
+    width: 100%;
+    background-color: #DDDCE2;
+    margin-top: 90px;
+}
+.lastpage h1 {
+    margin-left: 50px;
+    padding-top: 100px;
+}
+.lastpage a {
+    display: flex;
+    line-height: 20px;
+    margin-left: 900px;
+    margin-bottom: 45px;
+    color: black;
+    align-items: center;
+    text-align: center;  
+    
+    
+}
+.footer {
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.add li a {
+    
+    color: silver;
+    text-decoration: none;
+    
+}
+.add li {
+    padding: 10px;
+    text-decoration: none;
+}
+.add  span {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.add li  :hover {
+    text-decoration: underline;
+}
+.add1 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add1 li {
+    padding: 10px;
+}
+.add1 span {
+    font-size: 20px;
+    text-decoration: none;
+}
+.add1 li  :hover {
+    text-decoration: underline;
+}
+.add2 li a {
+    color: silver;
+    text-decoration: none;
+
+}
+.add2 span {
+    font-size: 20px;
+}
+.add2 li:hover {
+    text-decoration: underline;
+}
+.add2 li {
+    padding: 10px;
+}
+.add3 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add3 span {
+    font-size: 20px;
+}
+.add3 li :hover {
+    text-decoration: underline ;
+}
+.add3 li {
+    padding: 10px;
+}
+.add4 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add4 span {
+    font-size: 20px;
+}
+.add4 li:hover {
+    text-decoration: underline;
+}
+.add4 li {
+    padding: 10px;
+}
+.add5 li a {
+    color: silver;
+    text-decoration: none;
+}
+.add5 li {
+    padding: 10px;
+}
+.add5 span {
+    font-size: 20px;
+}
+.add5 li :hover {
+    text-decoration: underline;
+}
+.flag h1 {
+    position: absolute;
+    top: 350px;
+    font-size: 15px;
+    background-color: #DDDCE2;
+}
+.flag a {
+    position: absolute;
+    top: 370px;
+    left: 250px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #DDDCE2;
+
+}
+/* .flag a {
+    position: absolute;
+    top: 370px;
+    left: 250px; 
+    background-color: #DDDCE2;
+ 
+} */
+
+
+
+
+
+
+
